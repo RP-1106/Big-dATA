@@ -1,0 +1,3 @@
+This is Rhea
+Rhea is studying Hadoop
+Hadoop is awesome
